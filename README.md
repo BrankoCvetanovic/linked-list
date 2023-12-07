@@ -1,6 +1,8 @@
 Singly Linked List implemented with JavaScript
 
+
 Features:
+
 append(value) adds a new node containing value to the end of the list or to start if list is empty;
 
 prepend(value) adds a new node containing value to the start of the list;
